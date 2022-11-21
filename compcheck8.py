@@ -1,6 +1,10 @@
-# Wel Manasseh 
+# Wel Manasseh
+# Professor Farmer 
+# INST 326 
 # Comprehension Check 8
-# INST326_hello_world
+# 11/20/2022
+
+
 
 #Create a Github account if you do not already have one. They are free. https://github.com/ Links to an external site. 
 #Create a new repository and name it whatever you would like. I suggest "INST326_hello_world".
